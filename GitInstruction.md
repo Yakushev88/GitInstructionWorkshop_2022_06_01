@@ -154,6 +154,6 @@
 Для более детального изучения GIT можно воспользоваться нижеследующими материалами по ссылкам:
 * https://learngitbranching.js.org/?locale=ru_RU
 * https://proglib.io/p/git-for-half-an-hour
-
+* Books
 
 ## Альтернативные системы контроля версий.
